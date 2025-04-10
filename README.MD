@@ -1,8 +1,9 @@
-👋 Hi, i'm Bammun Timothy 
-👀 I’m passionate about Cybersecurity—especially SOC analysis, vulnerability assessment, and network defense
-🛡️ I’ve trained in offensive and defensive security, with hands-on experience in SIEM tools, IDS/IPS, and penetration testing
-🌐 I’m transitioning into blue team roles with a focus on system hardening and incident response
-💡 I’ve collaborated on red team simulations, internal network testing, and application security projects
-💬 Let’s connect if you need support on cybersecurity operations or threat detection strategies
-📫 How to reach me: bammuntimothy2016@gmail.com
-⚡ Stack: Nmap, Wireshark, Burp Suite, Metasploit, Nessus, JIRA, Python, Kali Linux, Linux, SIEM tools, VPN, TCP/IP
+👋 Hi, I’m Bammun Timothy
+👀 I specialize in Cybersecurity and also work as a Freelance Virtual Assistant
+🛡️ In Cybersecurity, I focus on SOC analysis, vulnerability assessment, and defensive security
+📊 As a Virtual Assistant, I help clients manage appointments, calendars, and emails using Google Workspace
+🌐 I’ve worked with international clients via Upwork, earning 5-star reviews and repeat contracts
+💡 Whether it’s securing systems or supporting operations, I bring structure, reliability, and results
+📫 Reach me at: bammuntimothy2016@gmail.com
+⚡ Cybersecurity Stack: Wireshark, Nessus, Burp Suite, Metasploit, Nmap, SIEM, Python
+🧰 VA Tools: Google Calendar, Gmail, Google Sheets, Google Docs, Trello, Slack
